@@ -9,6 +9,7 @@ body{
     font-size: 17px;
     color: #926239;
     line-height: 1.6;
+   overflow-x: hidden;
     
 }
 a{
